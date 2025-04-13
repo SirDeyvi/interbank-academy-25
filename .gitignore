@@ -1,0 +1,41 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode
+.vscode/
+
+# Pytest
+.cache/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# SQLite local cache
+*.sqlite
+
+# Backup files
+*.bak
+*.backup
+
+# Ignore everything in .venv folder
+.venv/
